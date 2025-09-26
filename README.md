@@ -27,8 +27,19 @@ A web application for browsing films and purchasing tickets. This application al
 
 ## installation
 
-1. Clone this repository to your local machine
-2. Make sure you have a `db.json` file in the same directory with the following structure:
+1. folk this repository.
+
+2. Clone this repository to your local machine.
+
+     - git clone git@github.com:David-kuron1996/movie-buyticket.git 
+
+3. Navigate to your project directory.
+
+    - cd your <folder name>
+
+4. install dependencies.
+
+   - npm install
 
 ## Usage
 
